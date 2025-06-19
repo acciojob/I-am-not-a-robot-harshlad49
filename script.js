@@ -1,4 +1,3 @@
-//your code here
 const imageClasses = ['img1', 'img2', 'img3', 'img4', 'img5'];
 const container = document.getElementById('image-container');
 const resetBtn = document.getElementById('reset');
